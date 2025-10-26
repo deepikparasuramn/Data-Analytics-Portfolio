@@ -16,7 +16,7 @@ A comprehensive data analytics simulation focused on identifying and mitigating 
 * **Impact:** Developed a data-driven reporting system for enhanced risk management and communication.
 * **Tools:** Excel, Power BI
 
-**[View Task 1 Report (PDF)](/TataIQ/Task 1 TATA IQ.pdf) | [View Task 2 Report (PDF)](/TataIQ/Task 2.pdf) | [View Task 3 Report (PDF)](/TataIQ/Task 3.pdf)**
+**[View Task 1 Report (PDF)](https://github.com/deepikparasuramn/Data-Analytics-Portfolio/blob/main/Task%201%20TATA%20IQ.pdf) | [View Task 2 Report (PDF)](/TataIQ/Task 2.pdf) | [View Task 3 Report (PDF)](/TataIQ/Task 3.pdf)**
 * [Task 4 Presentation (PPTX)](/TataIQ/TASK 4.pptx)
 * [Verification: Tata iQ Certificate (PDF)](/TataIQ/DATA ANALYTICS TATA CERTIFICATE.pdf)
 
