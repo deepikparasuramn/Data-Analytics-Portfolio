@@ -1,16 +1,16 @@
 # Data-Analytics-Portfolio
 # Deepika Parasuraman | Aspiring Data Analyst & BI Developer
 
-## About Me
+<h2 style="color:#28a745;">About Me</h2>
 I am a recent **Medical Engineering graduate (2025)** passionate about translating complex data into clear, actionable business intelligence. My strength lies in bridging technical analysis with strategic decision-making.
 
 I specialize in the full data lifecycle—from robust **SQL** querying and data cleaning in **Python** to building dynamic dashboards in **Power BI** and **Tableau**. I am actively seeking a role where I can apply a data-driven approach to optimize operations and drive measurable results.
 
 ---
 
-##  Featured Projects
+<h2 style="color:#007bff;">Featured Projects</h2>
 
-### 1. Tata iQ Virtual Experience: Customer Risk Forecasting
+<h3 style="color:#343a40;">1. Tata iQ Virtual Experience: Customer Risk Forecasting</h3>
 A comprehensive data analytics simulation focused on identifying and mitigating customer credit risk.
 * **Objective:** Prepare data and define model logic to forecast customer risk for the Collections Team.
 * **Impact:** Developed a data-driven reporting system for enhanced risk management and communication.
@@ -22,40 +22,40 @@ A comprehensive data analytics simulation focused on identifying and mitigating 
 
 ---
 
-### 2. Deloitte Data Analytics Job Simulation: Workplace Equality Dashboard
+<h3 style="color:#343a40;">2. Deloitte Data Analytics Job Simulation: Workplace Equality Dashboard</h3>
 Built a comprehensive visualization to assess workplace equity and inform HR policy.
 * **Objective:** Apply Excel logic to classify employee equality levels and visualize results in a Tableau dashboard.
 * **Impact:** Delivered actionable insights and recommendations for improving HR fairness and transparency.
 * **Tools:** Tableau, Excel
 
-**[View Tableau Dashboard Screenshot (JPG)](/Deloitte/Deloitte Tableau Dashboard.jpg)**
-* [Task 5 Equality Table (Excel)](/Deloitte/Task 5 Equality Table - edited.xlsx)
-* [Verification: Deloitte Certificate (PDF)](/Deloitte/Deloitte Job Simulation certificate.pdf)
+**[View Tableau Dashboard Screenshot (JPG)](https://github.com/deepikparasuramn/Data-Analytics-Portfolio/blob/main/Deloitte%20Tableau%20Dashboard.jpg)**
+* [Task 5 Equality Table (Excel)](https://github.com/deepikparasuramn/Data-Analytics-Portfolio/blob/main/Task%205%20Equality%20Table%20-%20edited.xlsx)
+* [Verification: Deloitte Certificate (PDF)](https://github.com/deepikparasuramn/Data-Analytics-Portfolio/blob/main/Deloitte%20Job%20Simulation%20certificate.pdf)
 
 ---
 
-### 3. Zepto Business Insights: Delivery & Sales Performance
+<h3 style="color:#343a40;">3. Zepto Business Insights: Delivery & Sales Performance</h3>
 A project focused on analyzing key operational metrics for a quick-commerce platform.
 * **Objective:** Analyze delivery and sales data using SQL and visualize KPIs in a Power BI dashboard.
 * **Impact:** Identified key patterns in delivery delays and regional performance to enhance operational efficiency.
 * **Tools:** Power BI, SQL
 
-**[View Power BI Dashboard File (.pbix)](/Zepto/Zepto powerbi dasboard.pbix)**
-* [SQL Analysis Script (.sql)](/Zepto/Zepto Data analysis Project.sql)
+**[View Power BI Dashboard File (.pbix)](https://github.com/deepikparasuramn/Data-Analytics-Portfolio/blob/main/Zepto%20powerbi%20dasboard.pbix)**
+* [SQL Analysis Script (.sql)](https://github.com/deepikparasuramn/Data-Analytics-Portfolio/blob/main/Zepto%20Data%20analysis%20Project.sql)
 
 ---
 
-### 4. Hospital Performance Dashboard
+<h3 style="color:#343a40;">4. Hospital Performance Dashboard</h3>
 Designed a comprehensive Business Intelligence solution to monitor and optimize hospital operations.
 * **Objective:** Create an interactive Power BI dashboard tracking KPIs like occupancy rate, doctor utilization, and patient inflow trends.
 * **Impact:** Provided hospital administrators with a unified view for data-based resource allocation and planning.
 * **Tools:** Power BI
 
-**[View Power BI Dashboard File (.pbix)](/HospitalDashboard/UPDATED POWER BI DASHBOARD.pbix)**
+**[View Power BI Dashboard File (.pbix)](https://github.com/deepikparasuramn/Data-Analytics-Portfolio/blob/main/UPDATED%20POWER%20BI%20DASHBOARD.pbix)**
 
 ---
 
-##  Technical Toolkit
+<h2 style="color:#007bff;">Technical Toolkit</h2>
 
 | Category | Tools & Languages |
 | :--- | :--- |
@@ -66,6 +66,6 @@ Designed a comprehensive Business Intelligence solution to monitor and optimize 
 
 ---
 
-## Contact
+<h2 style="color:#007bff;">Contact</h2>
 | **Email** | deepikaparasuraman@gmail.com |
-| **LinkedIn** | linkedin.com/in/deepika-parasuraman |
+| **LinkedIn** | https://www.linkedin.com/in/deepika-parasuraman/ |
